@@ -42,4 +42,7 @@ Free to use for personal or educational purposes. Attribution is appreciated but
 ## 💬 Feedback
 If you have questions or suggestions, feel free to reach out – this project was built to help Swahili‑speaking users find the best voice changer apps easily.
 
-[#denjagidev](nf-d.netlify.net)
+[#denjagidev](nf-d.netlify.app)
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=Built+Different" alt="pantane">
+</p>
