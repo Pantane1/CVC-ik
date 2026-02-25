@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (shareLink) {
         shareLink.addEventListener('click', function(e) {
             e.preventDefault();
-            alert('🔗 Copy this link to share:\nhttps://voice-changer.blog/guide');
+            alert('🔗 Share this guide: https://voice-changer.blog/guide');
         });
     }
 
